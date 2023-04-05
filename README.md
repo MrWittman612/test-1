@@ -5,4 +5,4 @@
 
 ### Start server by running 👇
 
-                              `npm run start`
+    npm run start
